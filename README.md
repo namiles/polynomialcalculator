@@ -1,4 +1,4 @@
-# polynomialcalculator
+# Polynomial Calculator
 A polynomial calculator with rational and real number support created to practice OOP principals.
 
 Be aware that this project in no way represents a bug-free, completed project. I cannot guarentee it will work with all cases.
